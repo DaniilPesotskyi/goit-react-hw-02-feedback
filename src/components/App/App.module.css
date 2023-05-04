@@ -1,19 +1,25 @@
-.block {
-    margin: 30px;
-    padding: 20px;
-    background-color: #3a3a3a;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
 }
 
-.textMain {
-    margin-bottom: 30px;
-
-    font-size: 50px;
-    text-align: center;
-    color: #ebebeb;
+ul,
+ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
-.textSecondary {
-    font-size: 30px;
-    text-align: center;
-    color: #ebebeb;
+a {
+  font-style: normal;
+  text-decoration: none;
+}
+
+img {
+    display: block;
 }
