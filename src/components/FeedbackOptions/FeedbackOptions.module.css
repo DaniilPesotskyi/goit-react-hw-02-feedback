@@ -46,6 +46,10 @@
     transform: scale(1.1);
 }
 
+.button:active {
+    filter: brightness(90%)
+}
+
 .buttonGood {
     background-color: #ABFFA9;
 }
